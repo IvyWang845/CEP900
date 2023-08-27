@@ -1,2 +1,4 @@
-# CEP900
-This site is designed for CEP900 course.  I will post my assignment, reflections on reading, critique, and other things related to this course.  
+# Writing Quality Predictive Modeling: Integrating Register-Related Factors
+This repo is designed for a peer-reviewed journal article published in Written Communication
+Citation: Wang, H., & Troia, G. A. (2023). Writing Quality Predictive Modeling: Integrating Register-Related Factors. Written Communication, 07410883231185287.
+Workspace: VS Code
